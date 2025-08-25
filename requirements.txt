@@ -1,0 +1,10 @@
+torch
+ollama
+numpy
+pylatexenc
+
+# --- Qiskit Version-Pinned Stack ---
+qiskit==1.1.1
+qiskit-aer==0.14.2
+qiskit-algorithms==0.3.0
+qiskit-ibm-runtime==0.25.0
